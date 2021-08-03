@@ -1,0 +1,13 @@
+body {
+	background-image: url("congratulations.jpg");
+	background-size: cover;
+}
+.my-element2{
+background-color: #C9EEF7;
+border: 0;
+}
+.my-element{
+	background-color: #C9EEF7;
+	border: 0;
+	padding-left:150 ;
+	}
